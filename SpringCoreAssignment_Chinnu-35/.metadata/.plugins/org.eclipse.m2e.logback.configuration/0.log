@@ -1,0 +1,17 @@
+2020-04-27 19:00:14,217 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-27 19:02:15,476 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:springcoreassign:0.0.1-SNAPSHOT @ C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\pom.xml.
+2020-04-27 19:02:22,766 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcoreassign/src/main/java
+2020-04-27 19:02:22,768 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcoreassign/src/test/java
+2020-04-27 19:02:23,106 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 28 sec
+2020-04-27 19:02:26,144 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:02:26,145 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\main\resources
+2020-04-27 19:02:26,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:02:26,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\test\resources
+2020-04-27 19:03:25,653 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:03:25,653 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\main\resources
+2020-04-27 19:03:25,656 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:03:25,656 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\test\resources
+2020-04-27 19:05:23,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:05:23,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\main\resources
+2020-04-27 19:05:23,535 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 19:05:23,535 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\chinn\Downloads\springcore-assign\springcore-assign\springcoreassign\src\test\resources
